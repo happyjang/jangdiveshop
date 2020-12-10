@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/jangdiveshop/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jangdiveshop/static/js/main.f234f323.chunk.js",
+    "main.js.map": "/jangdiveshop/static/js/main.f234f323.chunk.js.map",
+    "runtime-main.js": "/jangdiveshop/static/js/runtime-main.d6a57738.js",
+    "runtime-main.js.map": "/jangdiveshop/static/js/runtime-main.d6a57738.js.map",
+    "static/css/2.55d8add8.chunk.css": "/jangdiveshop/static/css/2.55d8add8.chunk.css",
+    "static/js/2.73f2badf.chunk.js": "/jangdiveshop/static/js/2.73f2badf.chunk.js",
+    "static/js/2.73f2badf.chunk.js.map": "/jangdiveshop/static/js/2.73f2badf.chunk.js.map",
+    "static/js/3.f37c0d18.chunk.js": "/jangdiveshop/static/js/3.f37c0d18.chunk.js",
+    "static/js/3.f37c0d18.chunk.js.map": "/jangdiveshop/static/js/3.f37c0d18.chunk.js.map",
+    "index.html": "/jangdiveshop/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/jangdiveshop/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jangdiveshop/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.73f2badf.chunk.js.LICENSE.txt": "/jangdiveshop/static/js/2.73f2badf.chunk.js.LICENSE.txt",
+    "static/media/01.44472062.jpg": "/jangdiveshop/static/media/01.44472062.jpg",
+    "static/media/02.d84533ef.jpg": "/jangdiveshop/static/media/02.d84533ef.jpg",
+    "static/media/04.91d1a42e.jpg": "/jangdiveshop/static/media/04.91d1a42e.jpg",
+    "static/media/06.4df57c5a.jpg": "/jangdiveshop/static/media/06.4df57c5a.jpg",
+    "static/media/09.760ea7f9.jpg": "/jangdiveshop/static/media/09.760ea7f9.jpg",
+    "static/media/11.d2e8bb7e.jpg": "/jangdiveshop/static/media/11.d2e8bb7e.jpg",
+    "static/media/15.696992e1.jpg": "/jangdiveshop/static/media/15.696992e1.jpg",
+    "static/media/22.b18831e2.jpg": "/jangdiveshop/static/media/22.b18831e2.jpg",
+    "static/media/31.4f8e76be.jpg": "/jangdiveshop/static/media/31.4f8e76be.jpg",
+    "static/media/34.cc3982ef.jpg": "/jangdiveshop/static/media/34.cc3982ef.jpg",
+    "static/media/boat01.b1d11d89.jpg": "/jangdiveshop/static/media/boat01.b1d11d89.jpg",
+    "static/media/boat02.66b8feff.jpg": "/jangdiveshop/static/media/boat02.66b8feff.jpg",
+    "static/media/boat03.9df8835f.jpg": "/jangdiveshop/static/media/boat03.9df8835f.jpg",
+    "static/media/itinerary.e12117a6.jpg": "/jangdiveshop/static/media/itinerary.e12117a6.jpg",
+    "static/media/logo.6ce24c58.svg": "/jangdiveshop/static/media/logo.6ce24c58.svg",
+    "static/media/program.25450578.jpg": "/jangdiveshop/static/media/program.25450578.jpg",
+    "static/media/room01.a56ddf3f.jpg": "/jangdiveshop/static/media/room01.a56ddf3f.jpg",
+    "static/media/room02.7a9549a9.jpg": "/jangdiveshop/static/media/room02.7a9549a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6a57738.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.73f2badf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f234f323.chunk.js"
+  ]
+}
